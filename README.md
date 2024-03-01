@@ -1,14 +1,6 @@
 # Hi, I'm Vaishali 👋
 Result-driven, self-motivated Test Automation Engineer (Mobile/Web/API) with experience in all phases of the Quality Assurance Lifecycle. Key strengths include risk analysis based testing and technical testing. Proven expertise in creating and maintaining test automation frameworks for Web, Mobile, and APIs applications.
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/vaishali-thakkar-3234b0101/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
- <p align='center'>
-  📫  How to reach me: <a href='mailto:vaishalihthacker49@gmail.com'>vaishalihthacker49@gmail.com</a>
-</p>
-
 ## 🛠 Technical Stack
  Programming/Scripting Languages:
 Python, Java, Swift, JavaScript, Shell Script(Basic).
